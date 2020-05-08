@@ -1,5 +1,7 @@
 # Udacity - Intro to Self-Driving Cars
 
+![nd113_open_graph](https://user-images.githubusercontent.com/47195928/81456675-896c0800-9193-11ea-9fea-d55f442c98a0.jpg)
+
 
 This repository contains the **source code** of my implementations for all the projects in the [Udacity's Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) program
 
