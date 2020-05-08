@@ -10,7 +10,7 @@ This repository contains the **source code** of my implementations for all the p
 
 There are a total of 4 main projects and a couple of optional once you will find the main projects numbered while the optionals are not.
 
-
+---
 ### Main Projects
 
 
@@ -32,11 +32,11 @@ There are a total of 4 main projects and a couple of optional once you will find
 
 * **Project 4 - Traffic Light Classifier**:
 
-  Builing a complete simple traffic light classification pipeline (Pre-processing , Feature Extraction , Classification and Evaluation)   that can obtain an accuracy up to **99%**  
+  Builing a complete simple traffic light classification pipeline (Pre-processing , Feature Extraction , Classification and Evaluation)   that can obtain an accuracy up to **99%**. 
 
 
 
-
+---
 ### Optional Projects
 
 
