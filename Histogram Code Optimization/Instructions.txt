@@ -1,0 +1,7 @@
+NOTE: Use c++11 for compilation
+
+
+For Compiling with g++:
+
+g++ -std=c++11 main.cpp blur.cpp initialize_beliefs.cpp move.cpp normalize.cpp print.cpp sense.cpp zeros.cpp -o main.exe
+

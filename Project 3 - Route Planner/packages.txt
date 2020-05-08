@@ -1,0 +1,3 @@
+- networkx:  pip3 install networkx
+
+- plotly: pip install plotly==3.10.0 / pip install cufflinks
