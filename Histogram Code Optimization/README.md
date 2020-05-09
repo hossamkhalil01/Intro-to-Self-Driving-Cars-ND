@@ -1,11 +1,11 @@
-#Overview
+# Overview
 
 This project is an optimization for an already exicted C++ histogram filter code (both are provided) to make more efficient and faster to execute.
 
 It can be used as a demonstration of what aspects to look for while optimizing the code and how big of a difference can it make.
 
 
-#Demo
+# Demo
 
 Execution time for each function before optimization is:
 
@@ -17,24 +17,24 @@ Execution time for each function after optimization is:
 ![res](https://user-images.githubusercontent.com/47195928/81477374-d1347300-9217-11ea-9d8b-8046b7d95a13.JPG)
 
 
-#Description
+# Description
 
 There are two projects the original conde and its optimized version. Some of the files included in each project are:
 
 
 
-##blur.cpp:
+## blur.cpp:
 Changes the position beliefs after each movement step.
 
-##sense.cpp:
+## sense.cpp:
 Perform the measurement step according to the initialized world map.
 
-##main.cpp:
+## main.cpp:
 The main program as it iterates multiple times over each function while computing the execution time and outputs the results.
 
 
 
-#Instructions
+# Instructions
 
 Compile using c++11 standard, an example of compiling command using g++ compiler is:
 
